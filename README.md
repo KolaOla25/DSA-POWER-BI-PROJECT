@@ -63,6 +63,5 @@ Add slicers to make the report interactive:
 ### ANALYSIS 
 
 
-
-
+[BI Project PDF.pdf](https://github.com/user-attachments/files/21091581/BI.Project.PDF.pdf)
 
