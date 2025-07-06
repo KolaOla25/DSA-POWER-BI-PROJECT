@@ -54,7 +54,7 @@ Total Compensation = [Bonus Amount] + EmployeeData[Salary]
 - Table: Employee Name, Rating, Salary, Bonus, Total Compensation
 - Bar Chart: Total Bonus per Region
 - Card Visual: Company-wide total payout
-#### Filters/Slicers
+#### Slicers
 Add slicers to make the report interactive:
 - Gender
 - Department
